@@ -1,0 +1,17 @@
+atom-ctags
+autocomplete-python
+git-plus
+highlight-selected
+minimap
+minimap-bookmarks
+minimap-cursorline
+minimap-find-and-replace
+minimap-git-diff
+minimap-highlight-selected
+minimap-selection
+open-recent
+python-tools
+script
+svn
+
+
